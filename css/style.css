@@ -1,0 +1,33 @@
+.bgRedOne {
+    background-color:rgb(152, 0, 0);  
+}
+
+.bgRedTwo {
+    background-color:rgb(204, 0, 0);
+}
+
+.bgRedThree {
+    background-color:rgb(255, 53, 53);
+}
+
+
+.bgGreenOne {
+    background-color:rgb(0, 102, 51);  
+}
+
+.bgGreenTwo {
+    background-color:rgb(0, 153, 76);
+}
+
+.bgGreenThree {
+    background-color:rgb(0, 204, 102);
+}
+
+.bgGreenThree:focus{
+    background-color:rgb(0, 204, 102);
+    color: white;
+}
+
+.hide {
+    display: none;
+}
